@@ -1,0 +1,15 @@
+mystr="Harry is a good boy"
+# print(len(mystr))
+# print(mystr[-19:-2:-2])
+
+print(mystr.isalnum())
+print(mystr.isnumeric())
+print(mystr.isalpha())
+print(mystr.endswith("boy"))
+print(mystr.count("H"))
+print(mystr.capitalize())
+print(mystr)
+print(mystr.find("arry"))
+print(mystr.lower())
+print(mystr.upper())
+print(mystr.replace("Harry", "Rishi"))

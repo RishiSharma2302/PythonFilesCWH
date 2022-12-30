@@ -1,0 +1,7 @@
+s1=int(input("Enter marks in subject 1: "))
+s2=int(input("Enter marks in subject 2: "))
+s3=int(input("Enter marks in subject 3: "))
+s4=int(input("Enter marks in subject 4: "))
+s5=int(input("Enter marks in subject 5: "))
+print("Total marks =", s1+s2+s3+s4+s5)
+print("Average marks =", float(s1+s2+s3+s4+s5)/5)
